@@ -23,6 +23,8 @@ report on the days remaining for each product (Expiry Date)
 
 Know the time spent of each product in the warehouse
 
+Database.BAK : https://drive.google.com/file/d/15-4rVilhpEx-o0OuPwQ7dbbXEq4fTshX/view?usp=sharing
+
 
 
 
